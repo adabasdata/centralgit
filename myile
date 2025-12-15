@@ -2,5 +2,9 @@ first line from mumbai
 
 second line from mumbai
 
+<<<<<<< HEAD
 third line from mumbai
+=======
+third line from london
+>>>>>>> b03dd4e67d6fdf4ba1f9f964f4ca2105fb599315
 
